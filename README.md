@@ -3,3 +3,6 @@ Weather App in Django that displays the current weather in various cities. It is
 
 
 https://scotch.io/tutorials/building-a-weather-app-in-django
+
+
+<img src=/static/images/screenshot.png" alt="Screensht elTiempo app"/>
